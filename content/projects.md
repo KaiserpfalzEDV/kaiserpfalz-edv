@@ -7,6 +7,5 @@ author = "Roland T. Lichti"
 
 * [Mein privates Blog](https://www.lichti.de)
 * [Paladins Inn](https://www.paladins-inn.de)
-* [Ritter der Stürme](https://www.ritter-der-stuerme.de)
-* [Core Earth News](https://www.core-earth-news.de)
+* [Torganisiertes Spiel](https://de.torganized-play.org)
 * [Delphi Council Information System](https://www.delphi-council.org)
