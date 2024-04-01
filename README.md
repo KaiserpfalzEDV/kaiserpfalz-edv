@@ -13,8 +13,8 @@ The software is distributed via quay.io.
 ## Note from the author
 This software is meant do be perfected not finished.
 
-If someone is interested in getting it faster, we may team up. I'm open for that. But be warned: I want to do it 
-_right_. So no short cuts to get faster. And be prepared for some basic discussions about the architecture or software 
+If someone is interested in getting it faster, we may team up. I'm open for that. But be warned: I want to do it
+_right_. So no short cuts to get faster. And be prepared for some basic discussions about the architecture or software
 design :-).
 
 ----
