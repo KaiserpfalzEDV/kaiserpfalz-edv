@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/KaiserpfalzEDV/kaiserpfalz-edv/compare/v1.0.0...v1.1.0) (2025-09-28)
+
+
+### Features
+
+* Adding news about the new cluster. ([07679f6](https://github.com/KaiserpfalzEDV/kaiserpfalz-edv/commit/07679f6de463ced1f3bfb946ca3ac34fbb930700))
+
 # 1.0.0 (2025-09-28)
 
 
