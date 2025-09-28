@@ -1,5 +1,6 @@
 ---
 title: "Über den Kaiserpfalz EDV-Service"
+permalink: /about/
 description: "Der Kaiserpfalz EDV-Service ist das Nebengewerbe von Roland T. Lichti"
 date: "2021-10-24"
 author: "Roland T. Lichti"

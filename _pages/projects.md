@@ -1,5 +1,6 @@
 ---
 title: "Projekte"
+permalink: /projects/
 slug: "projects"
 date: "2021-10-24"
 author: "Roland T. Lichti"
