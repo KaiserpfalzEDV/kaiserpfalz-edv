@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.1.2...v1.1.3) (2025-09-28)
+
+
+### Bug Fixes
+
+* **kaiserpfalz-edv-de:** New Title and smaller logo. ([593f6f0](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/commit/593f6f0cd1b8744859947c936a247f9da8e3f1b9))
+
 ## [1.1.2](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.1.1...v1.1.2) (2025-09-28)
 
 
