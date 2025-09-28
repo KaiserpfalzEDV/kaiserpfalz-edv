@@ -1,11 +1,11 @@
 name: "Kaiserpfalz EDV-Service"
 description: >- # this means to ignore newlines until "baseurl:"
   Webhosting, Softwareentwicklung, Systemarchitektur, Security
-logo: "assets/img/paladins-inn.png"
+logo: "assets/img/logo.png"
 avatar: ""
-url: "https://www.paladins-inn.de"
+url: "https://www.kaiserpfalz-edv.de"
 baseurl: ""
-email: "info@paladins-inn.de"
+email: "info@kaiserpfalz-edv.de"
 
 include: ["_pages"]
 permalink: /:title/
