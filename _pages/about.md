@@ -1,10 +1,9 @@
-+++
-title = "Über den Kaiserpfalz EDV-Service"
-description = "Der Kaiserpfalz EDV-Service ist das Nebengewerbe von Roland T. Lichti"
-date = "2021-10-24"
-aliases = ["about-us", "about-kes", "contact"]
-author = "Roland T. Lichti"
-+++
+---
+title: "Über den Kaiserpfalz EDV-Service"
+description: "Der Kaiserpfalz EDV-Service ist das Nebengewerbe von Roland T. Lichti"
+date: "2021-10-24"
+author: "Roland T. Lichti"
+---
 
 Der Kaiserpfalz EDV-Service wurde noch während meiner Schulzeit 1992 gegründet und hat sich zuerst um kleinere Gewerbetreibende im Karlsruher Raum gekümmert. Inzwischen läuft er nur noch nebenher und kümmert sich um Altkunden und die Projekte des [Paladins Inn](https://www.paladins-inn.de).
 

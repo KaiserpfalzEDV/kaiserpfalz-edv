@@ -1,2 +1,4 @@
-_gen/
-public/
+_site/
+.jekyll-metadata
+.jekyll-cache/
+node_modules/

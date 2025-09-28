@@ -3,6 +3,7 @@ title: "Umstellung auf OKD"
 author: "Roland T. Lichti"
 date: "2023-08-01"
 description: "Das Hosting läuft wieder auf OKD statt OpenShift"
+categories: ["Hosting", "Infrastruktur"]
 ---
 
 Seit ein paar Tagen wurden die meisten Dienste schon auf dem neuen Cluster KALI zu Verfügung gestellt.

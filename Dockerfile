@@ -1,24 +1,17 @@
-FROM quay.io/klenkes74/hugo-builder:0.107.0 AS builder
+FROM docker.io/jekyll/jekyll as builder
 
-ENV GOPATH "/opt/go"
-ENV PATH "/opt/go/bin:$PATH"
+USER 0
 
-USER root
+WORKDIR /srv/jekyll
+COPY . /srv/jekyll
 
-ADD ./ /opt/app-root/src
+RUN mkdir /html && chmod 777 /html
+RUN bundle install
+RUN bundle exec jekyll build --destination /html
+RUN find /html -type d
 
-RUN git submodule update --init --recursive
-RUN hugo
-
-FROM ubi8/nginx-120
-
-USER root
-RUN mkdir -p /tmp/src
-COPY --from=builder /opt/app-root/src/public/ ./
-
-RUN /usr/libexec/s2i/assemble
-
-USER 1001
+FROM docker.io/nginxinc/nginx-unprivileged:alpine
+COPY --from=builder /html/ /usr/share/nginx/html
 EXPOSE 8080
-
-CMD /usr/libexec/s2i/run
+USER 1000
+CMD ["nginx", "-g", "daemon off;"]

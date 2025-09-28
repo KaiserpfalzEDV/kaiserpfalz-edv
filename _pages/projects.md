@@ -1,9 +1,9 @@
-+++
-title = "Projekte"
-slug = "projects"
-date = "2021-10-24"
-author = "Roland T. Lichti"
-+++
+---
+title: "Projekte"
+slug: "projects"
+date: "2021-10-24"
+author: "Roland T. Lichti"
+---
 
 * [Mein privates Blog](https://www.lichti.de)
 * [Paladins Inn](https://www.paladins-inn.de)
