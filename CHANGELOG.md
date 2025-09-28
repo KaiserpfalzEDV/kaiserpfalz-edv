@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.1.3...v1.2.0) (2025-09-28)
+
+
+### Features
+
+* added categories ([68e9e9b](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/commit/68e9e9bbe8d79b4e93f4241c49454138dd26e4f4))
+
 ## [1.1.3](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.1.2...v1.1.3) (2025-09-28)
 
 
