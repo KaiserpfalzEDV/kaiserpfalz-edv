@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/compare/v1.1.0...v1.1.1) (2025-09-28)
+
+
+### Bug Fixes
+
+* Fixing the logo of Kaiserpfalz-edv.de ([e44002c](https://github.com/KaiserpfalzEDV/www-kaiserpfalz-edv-de/commit/e44002c40f594fcc7923f0245cfe68304c35596c))
+
 # [1.1.0](https://github.com/KaiserpfalzEDV/kaiserpfalz-edv/compare/v1.0.0...v1.1.0) (2025-09-28)
 
 
